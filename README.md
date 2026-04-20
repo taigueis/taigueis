@@ -49,7 +49,7 @@ Além dos repositórios na minha conta, colaboro ativamente em equipa em projeto
 
 ### 📊 Estatísticas de Código
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=taigueis&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas de taigueis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taigueis&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Estatísticas de taigueis" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taigueis&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
