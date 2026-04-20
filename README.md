@@ -16,14 +16,14 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 **Linguagens & Bases de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,c,php,html,css,mysql,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,js,c,cs,php,html,css,mysql,postgres&theme=dark" />
   </a>
 </p>
 
 **Ferramentas, IDEs & Design**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,rider,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider,figma&theme=dark" />
   </a>
 </p>
 
