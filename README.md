@@ -7,7 +7,7 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 - 👯 **Estou à procura de colaborar em:** Projetos desafiantes de desenvolvimento de software e sistemas de gestão.
 - 💬 **Pergunta-me sobre:** O meu projeto **EasyTicket** (Nota: **19 valores**) ou sobre o meu estágio na LiderTeam (Nota: **18 valores**).
 - 📫 **Como me encontrar:** Através do meu [LinkedIn](https://www.linkedin.com/in/tiago-costa-9b43b9403) ou por email.
-- ⚡ **Facto curioso:** O meu percurso tecnológico começou com a edição de vídeo no **VEGAS Pro**, o que me levou a escolher a área da informática.
+- ⚡ **Facto curioso:** O meu interesse pela tecnologia começou com a edição de vídeo no **VEGAS Pro** durante a pandemia.
 
 ---
 
@@ -57,5 +57,5 @@ Além do projeto **EasyTicket**, participo e colaboro em diversos repositórios 
 Podes ver a demonstração das funcionalidades do EasyTicket aqui: [Vídeo de Demonstração](https://youtu.be/91B5oDVVM71)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=00bfff&height=100&section=footer" />
 </p>
