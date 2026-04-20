@@ -55,7 +55,3 @@ Além do projeto **EasyTicket**, participo e colaboro em diversos repositórios 
 
 ### 🎥 Projetos em Vídeo
 Podes ver a demonstração das funcionalidades do EasyTicket aqui: [Vídeo de Demonstração](https://youtu.be/91B5oDVVM71)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=00bfff&height=100&section=footer" />
-</p>
