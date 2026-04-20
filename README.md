@@ -4,26 +4,38 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 
 - 🔭 **Atualmente estou a trabalhar em:** Concluir o meu 2.º ano da Licenciatura em Engenharia Informática na **ESTG-IPVC**.
 - 🌱 **Atualmente estou a aprender:** Aprofundar conhecimentos em **Java**, **PostgreSQL** e Estruturas de Dados no IPVC.
-- 👯 **Estou à procura de colaborar em:** Projetos open-source desafiantes ou iniciativas locais de desenvolvimento web.
-- 💬 **Pergunta-me sobre:** O meu projeto **EasyTicket**, um sistema de bilhética digital desenvolvido com **PHP** e **MySQL** que obteve a nota final de **19 valores**.
-- 📫 **Como me encontrar:** Através do meu [LinkedIn](www.linkedin.com/in/tiago-costa-9b43b9403) ou por email.
-- ⚡ **Facto curioso:** O meu interesse pela tecnologia começou com a edição de vídeo no **VEGAS Pro** durante a pandemia, o que me motivou a seguir o caminho da informática.
+- 👯 **Estou à procura de colaborar em:** Projetos desafiantes de desenvolvimento de software e sistemas de gestão.
+- 💬 **Pergunta-me sobre:** O meu projeto **EasyTicket** (Nota: **19 valores**) ou sobre o meu estágio na LiderTeam (Nota: **18 valores**).
+- 📫 **Como me encontrar:** Através do meu [LinkedIn](https://www.linkedin.com/in/tiago-costa-9b43b9403) ou por email.
+- ⚡ **Facto curioso:** O meu percurso tecnológico começou com a edição de vídeo no **VEGAS Pro**, o que me levou a escolher a área da informática.
 
 ---
 
-### 🛠️ O Meu Stack Tecnológico
+### 🛠️ Tecnologias e Ferramentas
 
-**Desenvolvimento Web & Mobile (Base PAP/Estágio):**
-* **Linguagens:** PHP, JavaScript, HTML5, CSS3.
-* **Mobile:** Android Studio.
-* **Bases de Dados:** MySQL, phpMyAdmin.
-* **Ambiente:** XAMPP, Visual Studio Code.
+**Linguagens & Bases de Dados**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,js,c,php,html,css,mysql,postgres&theme=dark" />
+  </a>
+</p>
 
-**Formação em Engenharia (IPVC):**
-* **Linguagens:** Java, C, C#, Visual Basic .NET.
-* **Bases de Dados:** PostgreSQL.
-* **IDEs:** IntelliJ IDEA, Microsoft Visual Studio.
-* **Modelação:** UML, Ferramentas UML, Modelação de Dados (ER).
+**Ferramentas, IDEs & Design**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,rider,figma&theme=dark" />
+  </a>
+</p>
+
+*Também utilizo: Android Studio, XAMPP, VB.NET e ferramentas de modelação UML/ER.*
+
+---
+
+### 🤝 Outros Repositórios e Participações
+Além do projeto **EasyTicket**, participo e colaboro em diversos repositórios focados em:
+* **Exercícios Académicos (IPVC):** Implementações em C e Java de algoritmos e estruturas de dados.
+* **Projetos de Gestão:** Aplicações de suporte à decisão e gestão de fluxos de informação.
+* **Desenvolvimento Web:** Experiências com frameworks modernos e integração de APIs.
 
 ---
 
@@ -33,6 +45,17 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 
 ---
 
+### 📊 Estatísticas de Código
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USER_GITHUB&show_icons=true&theme=radical" alt="Tiago's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taigueis&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas de taigueis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taigueis&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 🎥 Projetos em Vídeo
+Podes ver a demonstração das funcionalidades do EasyTicket aqui: [Vídeo de Demonstração](https://youtu.be/91B5oDVVM71)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
