@@ -7,7 +7,7 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 - 👯 **Estou à procura de colaborar em:** Projetos desafiantes de desenvolvimento de software e sistemas de gestão.
 - 💬 **Pergunta-me sobre:** O meu projeto **EasyTicket** (Nota: **19 valores**) ou o meu estágio na LiderTeam (Nota: **18 valores**).
 - 📫 **Como me encontrar:** Através do meu [LinkedIn](https://www.linkedin.com/in/tiago-costa-9b43b9403) ou por email.
-- ⚡ **Facto curioso:** O meu interesse pela tecnologia começou com a edição de vídeo no **VEGAS Pro** durante a pandemia.
+- ⚡ **Facto curioso:** O meu interesse pela tecnologia sempre esteve presente através dos videojogos, mas foi durante a pandemia que transformei esse interesse em prática: dedicava-me a editar compilações de jogadas para mim e para outros jogadores, o que despertou a minha paixão pela computação e edição técnica.
 
 ---
 
@@ -15,19 +15,31 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 
 **Linguagens & Bases de Dados**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,c,cs,php,html,css,mysql,postgres,supabase&theme=dark" />
-  </a>
+  <a href="https://skillicons.dev" title="Java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" /></a>
 </p>
 
 **Ferramentas, IDEs & Design**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,rider,figma&theme=dark" />
-  </a>
+  <a href="https://skillicons.dev" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="JetBrains Rider"><img src="https://skillicons.dev/icons?i=rider" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" /></a>
+  <a href="https://skillicons.dev" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" /></a>
 </p>
 
-*Também utilizo: Android Studio, XAMPP, VB.NET, React, Vite e ferramentas de modelação UML/ER.*
+*Nota: Para além destes, utilizo XAMPP, VB.NET e ferramentas de modelação UML/ER.*
 
 ---
 
