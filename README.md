@@ -32,12 +32,12 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 ---
 
 ### 🤝 Experiência e Projetos em Colaboração
-Além dos repositórios na minha conta, colaboro ativamente em equipa em projetos full-stack e empresariais, destacando-se:
+Além dos repositórios na minha conta, colaboro ativamente em equipa em projetos full-stack e empresariais:
 
-* 🍔 **[PedeJa Platform](https://github.com/franciscox05/PedeJa-Project):** Plataforma escalável de *Food Delivery* com operações em tempo real, fluxo de checkout e dashboards específicos (Admin/Cliente/Restaurante). 
-  * *Stack Tecnológico:* **React**, **Vite**, **Supabase** (Database + Edge Functions) e integração com API Shipday.
-* 📅 **[Plataforma de Gestão de Horários](https://github.com/franciscox05/PlataformaGestaoHorarios):** Sistema robusto desenvolvido para a UC de Projeto II do IPVC, desenhado para automatizar a gestão de escalas, turnos e equipas.
-  * *Stack Tecnológico:* **Java**, **Spring Boot**, **Maven** e arquitetura MVC.
+* 🍔 **[PedeJa Platform](https://github.com/franciscox05/PedeJa-Project):** Plataforma escalável de *Food Delivery* com operações em tempo real, fluxo de checkout e dashboards específicos.
+  * *Stack:* **React**, **Vite**, **Supabase** e API Shipday.
+* 📅 **[Plataforma de Gestão de Horários](https://github.com/franciscox05/PlataformaGestaoHorarios):** Sistema robusto para gestão de escalas, turnos e equipas.
+  * *Stack:* **Java**, **Spring Boot**, **Maven** e arquitetura MVC.
 
 ---
 
@@ -47,11 +47,11 @@ Além dos repositórios na minha conta, colaboro ativamente em equipa em projeto
 
 ---
 
-### 📊 Estatísticas de Código
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=taigueis&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Estatísticas de taigueis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taigueis&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+### 📈 O Meu Percurso Técnico
+Como programador, o meu foco está em criar soluções escaláveis. Embora o GitHub tenha limitações na contagem automática de commits em repositórios partilhados, a minha experiência reflete-se na complexidade das soluções que desenvolvo:
+* **Desenvolvimento Full-Stack:** Forte domínio em lógica de backend (Java/PHP) e interfaces dinâmicas (React/JS).
+* **Gestão de Dados:** Proficiência em SQL, PostgreSQL e tecnologias modernas como o Supabase.
+* **Metodologias:** Experiência com controlo de versões, arquitetura MVC e ferramentas de modelação de processos.
 
 ---
 
