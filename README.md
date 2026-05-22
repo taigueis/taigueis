@@ -39,7 +39,7 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
   <a href="https://skillicons.dev" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" /></a>
 </p>
 
-*Nota: Para além destes, utilizo XAMPP, VB.NET e ferramentas de modelação UML/ER.*
+*Nota: Para além destes, utilizo XAMPP, VB.NET, LaTeX e ferramentas de modelação UML/ER.*
 
 ---
 
@@ -68,4 +68,20 @@ Como programador, o meu foco está em criar soluções escaláveis. Embora o Git
 ---
 
 ### 🎥 Projetos em Vídeo
-Podes ver a demonstração das funcionalidades do EasyTicket aqui: [Vídeo de Demonstração](https://youtu.be/91B5oDVVM7I)
+Podes ver a demonstração das funcionalidades do EasyTicket aqui: [Vídeo de Demonstração](https://youtu.be/91B5oDVVM71)
+
+---
+
+<h3 align="center">📊 Estatísticas de Código</h3>
+
+<p align="center">
+  <a href="#github-stats"><img src="https://github-readme-stats.shion.dev/api?username=taigueis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" alt="Estatísticas de taigueis" height="175" /></a>
+</p>
+
+<p align="center">
+  <a href="#github-stats"><img src="https://streak-stats.demolab.com/?user=taigueis&theme=dark&hide_border=false" alt="GitHub Streak" height="175" /></a>
+</p>
+
+<p align="center">
+  <a href="#github-stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=taigueis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" height="150" /></a>
+</p>
