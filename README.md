@@ -67,11 +67,6 @@ Como programador, o meu foco está em criar soluções escaláveis. Embora o Git
 
 ---
 
-### 🎥 Projetos em Vídeo
-Podes ver a demonstração das funcionalidades do EasyTicket aqui: [Vídeo de Demonstração](https://youtu.be/91B5oDVVM71)
-
----
-
 <h3 align="center">📊 Estatísticas de Código</h3>
 
 <p align="center">
