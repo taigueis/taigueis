@@ -9,6 +9,8 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática e entusiasta pelo
 - 📫 **Como me encontrar:** Através do meu [LinkedIn](https://www.linkedin.com/in/tiago-costa-9b43b9403) ou por email.
 - ⚡ **Facto curioso:** O meu interesse pela tecnologia sempre esteve presente através dos videojogos, mas foi durante a pandemia que transformei esse interesse em prática: dedicava-me a editar compilações de jogadas para mim e para outros jogadores, o que despertou a minha paixão pela computação e edição técnica.
 
+🌐 **Portfolio:** [taigueis.vercel.app](https://taigueis.vercel.app)
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
