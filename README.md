@@ -9,7 +9,7 @@ Eu sou o **Tiago Costa**, estudante de Engenharia Informática na **ESTG-IPVC** 
 
 ### 🚀 Destaques & Projetos em Produção
 
-* 🥪 **[União das Francesinhas](https://taigueis.vercel.app/projects/uniao-francesinhas):** Plataforma web comercial completa com painel administrativo seguro (JWT, 2FA/OTP, rate limiting), gestão dinâmica de ementa em árvore e motor timezone-aware (WEST).
+* 🥪 **[União das Francesinhas](https://www.uniaofrancesinhas.pt):** Plataforma web comercial completa com painel administrativo seguro (JWT, 2FA/OTP, rate limiting), gestão dinâmica de ementa em árvore e motor timezone-aware (WEST).
   * *Stack:* **Next.js**, **TypeScript**, **Prisma ORM**, **PostgreSQL**, **Tailwind CSS**, **Vercel**.
 * 🦷 **[Clínica Dentária Santa Catarina](https://clinica-dentaria-santa-catarina.vercel.app):** Plataforma institucional com interface moderna e fluxo de contacto/marcação.
   * *Stack:* **Next.js**, **TypeScript**, **Tailwind CSS**, **Vercel**.
